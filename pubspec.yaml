@@ -3,7 +3,7 @@ description: >
   A professional and lightweight logging library for Flutter and Dart,
   providing structured and configurable log output for apps and packages.
 
-version: 0.1.0
+version: 0.1.1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

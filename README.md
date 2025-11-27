@@ -1,10 +1,11 @@
 # solid_logger
 
 [![pub package](https://img.shields.io/pub/v/solid_logger.svg?logo=dart&logoColor=00b9fc)](https://pub.dev/packages/solid_logger)
-[![CI](https://img.shields.io/github/actions/workflow/status/devnizamuddin/solid_logger/dart.yml?branch=main&logo=github-actions&logoColor=white)](https://github.com/devnizamuddin/solid_logger/actions)
+
 [![Last Commits](https://img.shields.io/github/last-commit/devnizamuddin/solid_logger?logo=git&logoColor=white)](https://github.com/devnizamuddin/solid_logger/commits/main)
-[![Pull Requests](https://img.shields.io/github/issues-pr/devnizamuddin/solid_logger?logo=github&logoColor=white)](https://github.com/devnizamuddin/solid_logger/pulls)
+
 [![Code size](https://img.shields.io/github/languages/code-size/devnizamuddin/solid_logger?logo=github&logoColor=white)](https://github.com/devnizamuddin/solid_logger)
+
 [![License](https://img.shields.io/github/license/devnizamuddin/solid_logger?logo=open-source-initiative&logoColor=green)](https://github.com/devnizamuddin/solid_logger/blob/main/LICENSE)
 
 A professional, lightweight, and extensible logging library for Flutter and Dart that prints structured, readable logs.
